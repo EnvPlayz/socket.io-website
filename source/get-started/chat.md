@@ -3,7 +3,7 @@ permalink: /get-started/chat/
 type: misc
 ---
 
-In this guide we’ll create a basic chat application. It requires almost no basic prior knowledge of Node.JS or Socket.IO, so it’s ideal for users of all knowledge levels.
+In this guide we will create a basic chat application. It requires almost no basic prior knowledge of Node.JS or Socket.IO, so it’s ideal for users of all knowledge levels.
 
 ## Introduction
 
@@ -106,7 +106,7 @@ Put the following in your `index.html` file:
 </html>
 ```
 
-If you restart the process (by hitting Control+C and running `node index.js` again) and refresh the page it should look like this:
+If you restart the process (by hitting Control + C and running `node index.js` again) and refresh the page it should look like this:
 
 <img src="/images/chat-3.png" alt="A browser displaying an input and a 'Send' button">
 
